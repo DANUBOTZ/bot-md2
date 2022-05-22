@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['628812675508']
-global.premium = ['628812675508']
-global.ownernomer = '628812675508'
-global.ownername = '🗿Otsu大津'
-global.botname = 'Hera Bot'
-global.footer = 'Hera Bot.'
-global.ig = 'https://Instagram.com/rinka.433'
+global.owner = ['6287726955090']
+global.premium = ['6287726955090']
+global.ownernomer = '6287726955090'
+global.ownername = 'Danielhw24'
+global.botname = 'DANU BOTZ'
+global.footer = 'DANU BOTZ.'
+global.ig = 'https://Instagram.com/Danielhw24'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://wa.me/628812675508'
+global.sc = 'https://wa.me/6287726955090'
 global.myweb = 'https://youtube.com/channel/UCSzWqWapcj2e2Go3Qdqjn5A'
-global.packname = 'Hera Bot'
-global.author = '🗿Otsu大津'
+global.packname = 'DANU BOTZ'
+global.author = 'Danielhw24'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
